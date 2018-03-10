@@ -21,4 +21,4 @@ deploy:
   on:
     branch: master
 edge:
-  branch: v1.8.47
+      branch: v1.8.47
